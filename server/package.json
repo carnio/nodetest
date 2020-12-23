@@ -1,17 +1,17 @@
 {
   "name": "server",
-  "version": "1.0.0",
-  "description": "prima prova con node js",
-  "main": "app.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./bin/www"
   },
-  "keywords": [
-    "test"
-  ],
-  "author": "carnio",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.6",
+    "pug": "2.0.0-beta11"
   }
 }
