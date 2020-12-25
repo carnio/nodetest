@@ -8,5 +8,15 @@ a {
 }
 
 #kk{
-height: 100px;
+height: 400px;
+}
+
+.uno{
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+}
+.due{
+    margin-top: 100px;
+    margin-left: 50px;
 }

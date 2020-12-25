@@ -1,0 +1,24 @@
+extends layout
+
+block content
+ h2 Registrati
+ h4=errore
+ form(name='invio_dati' action='/users/accesso' method='post' )
+   p
+    input(name='nome' placeholder='Nome' required)
+   p
+    input(name='cognome' placeholder='Cognome' required)
+   p
+    input(type='email' name='mail' placeholder='Email' required)
+   p
+    input(type='password' name='password' placeholder='Password' required)
+   p
+    input(type='password' name='rpassword' placeholder='Ripeti password' required)
+
+   p
+    input(name='sesso' type='radio' value='maschio' checked )
+    |  maschio
+    input(name='sesso' type='radio' value='femmina' )
+    |  femmina
+   p
+    input(name='invia' type='submit')

@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1(style=`color:${color}`) #{description}
+  div.uno
+    img#kk(src=`${immage}`, alt="immagine bho")
+    div.due
+      h1 #{price}€
+      p Abbiamo a disposizione solo #{magazine} pezzi, affrettati!
+      a(href="/compra")
+       p COMPRA

@@ -1,0 +1,44 @@
+[
+    {
+        "article":"00001",
+        "description":"Borraccia termica",
+        "price":"2.30",
+        "magazine":"100",
+        "immage":"https://ae01.alicdn.com/kf/HTB1d5vCbizxK1RkSnaVq6xn9VXaC.jpg"
+    },
+    {
+        "article":"00002",
+        "description":"Orologio tecnologico",
+        "price":"15.99",
+        "magazine":"20",
+        "immage":"https://ae01.alicdn.com/kf/Hba74fa40b6cc4ccc85698a18ac6ffe3a4.jpg"
+    },
+    {
+        "article":"00003",
+        "description":"Cuffiette senza filo",
+        "price":"9.99",
+        "magazine":"50",
+        "immage":"https://ae01.alicdn.com/kf/H12085e9e91f64a178b25acf25897ee23Z.jpg?width=800&height=800&hash=1600"
+    },
+    {
+        "article":"00001",
+        "description":"borraccia acqua",
+        "price":"2.30",
+        "magazine":"100",
+        "immage":"https://ae01.alicdn.com/kf/HTB1d5vCbizxK1RkSnaVq6xn9VXaC.jpg"
+    },
+    {
+        "article":"00004",
+        "description":"Giacca jeans",
+        "price":"20.50",
+        "magazine":"40",
+        "immage":"https://ae01.alicdn.com/kf/H9b125a80ef064d65bc324b5b0e18755ak.jpg"
+    },
+    {
+        "article":"00005",
+        "description":"Palloncini 2021",
+        "price":"7.53",
+        "magazine":"10",
+        "immage":"https://ae01.alicdn.com/kf/Hcd6dcc16d3d24521b129f38282b93bb0R.jpg"
+    }
+]
