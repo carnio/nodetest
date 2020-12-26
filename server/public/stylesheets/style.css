@@ -10,6 +10,31 @@ a {
 #kk{
 height: 400px;
 }
+#ss{
+height: 110px;
+margin: 7px 10px -10px 10px;
+}
+#ll{
+    text-align: center;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+}
+.card{
+    margin: 0px 35px 0px 35px;
+    height: 160px;
+    width: 150px;
+    border: 5px solid orangered;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+.shop{
+
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+}
 
 .uno{
     text-align: justify;
