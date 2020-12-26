@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  a(href="/")
+    h3 HOME
+  h1 Carica file
+  form(action="/upload", method="post" enctype="multipart/form-data")
+    input(type='file' value='carica un file' name='fileupload')
+    button(type='submit') Upload
